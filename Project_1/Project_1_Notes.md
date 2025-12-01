@@ -6,7 +6,7 @@ This project uses Python to create various plots for the purpose of analyzing ti
 - Normalizing data
 - Shifting data to zero mean
 - Subsampling data
-- Tapering data
+- Tapering data with Hann window
 - Fast Fourier transform spectra
-- Continuous wavelet transform with Morlet wavelet
+- Continuous wavelet transform scalograms with Morlet wavelet
 - Histograms and statistics for plots
