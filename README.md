@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to my repository. I am a Physics student working on coding projects for an internship.
+I am a Physics student working on coding projects for an internship.
 <!--
 **rmbordonali/rmbordonali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
