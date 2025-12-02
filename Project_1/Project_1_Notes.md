@@ -11,3 +11,4 @@ This project uses Python to create various plots for the purpose of analyzing ti
 - Fast Fourier transform spectra
 - Continuous wavelet transform scalograms with Morlet wavelet
 - Histograms and statistics for plots
+- Interactive Plotly plots
