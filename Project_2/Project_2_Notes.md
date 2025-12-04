@@ -1,5 +1,5 @@
 ### Project Description
-This project builds on Project 1 with a focus on passive seismics. In particular, this project was created using data downloaded from TROMINO GRILLA software.
+This project builds on Project 1 with a focus on passive seismics. This project was created using data downloaded from TROMINO GRILLA software.
 
 ### Code Summary
 - Linearly detrending data
