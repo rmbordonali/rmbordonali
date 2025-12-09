@@ -8,3 +8,4 @@
 ### Notes
 - Measurements of the surfce of the car were taken head-on and from the side
   - I am not sure which data files correspond to head-on measurements and which files correspond to measurements from the side (waiting to hear back from Mika)
+- The "Car_On_Vibrometer_Plots.ipynb" file contains plots for both Case 2 and Case 3
