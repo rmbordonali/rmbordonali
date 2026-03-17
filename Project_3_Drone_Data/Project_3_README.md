@@ -1,5 +1,5 @@
 ### Project Description:
-(In-progress)
+Goals for this project include completing wavelet analysis and fourier analysis for drone data.
 
 ### Code Summary:
 - Raw data plots
@@ -12,7 +12,7 @@
   - Difference scalograms (i.e. CWT1 - CWT2)
 
 ### File Guide:
-- Drone with & without payload
+- Drone with & without payload: "Drone_With_Without_Payload.ipynb"
   - Developed using audio files with/without MagArrow payload
   - Raw data plots
   - Detrended, normalized, shifted data plots
@@ -22,6 +22,5 @@
   - Fast Fourier transform averaged frequency spectrum
   - Power spectral density plots
   - Continuous wavelet transform scalograms and difference plot
-
-### General Notes:
-...
+  - Option to save cell outputs and markdown as HTML file with save_notebook function
+    - Convert to PDF file with print to PDF (e.g. Ctrl + P)
