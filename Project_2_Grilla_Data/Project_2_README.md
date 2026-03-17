@@ -14,7 +14,7 @@ This project builds on Project 1 with a focus on passive seismics. This project 
 - Continuous wavelet transform scalograms with the Morlet wavelet
 
 ### File Guide:
-- Tyendinaga folder:
+- Tyendinaga file:
   - Developed using Grilla data for Tyendinaga
   - Plots raw data
   - Plots detrended, normalized, shifted data
