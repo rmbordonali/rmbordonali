@@ -1,7 +1,7 @@
-### Project Description
-This project uses Python to create various plots for the purpose of analyzing time series data. For example, daily mean water level data for Toronto (1960-2024) was used when creating this project, as well as drone audio data.
+### Project Description:
+This project uses Python to create various plots for the purpose of analyzing time series data. Daily mean water level data for Toronto (1960-2024) was used when creating this project, as well as drone audio data.
 
-### Code Summary
+### Code Summary:
 - Linearly detrending data
 - Normalizing data
 - Shifting data to zero mean
@@ -13,7 +13,12 @@ This project uses Python to create various plots for the purpose of analyzing ti
 - Histograms and statistics for plots
 - Interactive Plotly plots
 
-### File Guide
+### File Guide:
 - Proj_1_Ver_4_File_1: Water level data part 1
+  - Includes interactive plotly plots
+    - Raw data
+    - Detrended, normalized, shifted data
+    - Tapered and subsampled data
 - Proj_1_Ver_4_File_2: Water level data part 2
+  -...
 - Proj_1_Part_2: Drone audio data
