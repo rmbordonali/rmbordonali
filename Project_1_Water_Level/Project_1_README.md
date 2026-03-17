@@ -20,5 +20,12 @@ This project uses Python to create various plots for the purpose of analyzing ti
     - Detrended, normalized, shifted data
     - Tapered and subsampled data
 - Proj_1_Ver_4_File_2: Water level data part 2
-  -...
+  - Adding sine waves to the data
+  - Original fast Fourier transform code
+    - Frequency resolution not reduced
+  - Original continuous wavelet transform scalogram code
+    - Recommended to use a more recent project file for CWT plots 
 - Proj_1_Part_2: Drone audio data
+
+### General Notes:
+- More recently updated versions of my code (e.g. for FFT and CWT plots) can be found in more recent project folders
