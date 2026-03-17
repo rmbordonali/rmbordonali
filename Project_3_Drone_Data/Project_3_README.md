@@ -13,7 +13,7 @@
 
 ### File Guide:
 - Drone with & without payload
-  - Developed using audio files with MagArrow payload
+  - Developed using audio files with/without MagArrow payload
   - Raw data plots
   - Detrended, normalized, shifted data plots
   - Joined plot for data with payload to data without payload
