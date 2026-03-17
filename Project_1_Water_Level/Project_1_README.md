@@ -1,5 +1,5 @@
 ### Project Description:
-This project uses Python to create various plots for the purpose of analyzing time series data. Daily mean water level data for Toronto (1960-2024) was used when creating this project, as well as drone audio data.
+This project uses Python to create various plots for the purpose of analyzing time series data. Daily mean water level data for Toronto (1960-2024) was used when creating this project.
 
 ### Code Summary:
 - Linearly detrending data
@@ -23,9 +23,8 @@ This project uses Python to create various plots for the purpose of analyzing ti
   - Adding sine waves to the data
   - Original fast Fourier transform code
     - Frequency resolution not reduced
-  - Original continuous wavelet transform scalogram code
-    - Recommended to use a more recent project file for CWT plots 
-- Proj_1_Part_2: Drone audio data
+  - Original continuous wavelet transform (CWT) scalogram code
+    - Recommended to use a more recent project file for CWT code 
 
 ### General Notes:
 - More recently updated versions of my code (e.g. for FFT and CWT plots) can be found in more recent project folders
