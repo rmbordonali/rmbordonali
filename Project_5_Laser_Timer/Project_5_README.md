@@ -24,3 +24,4 @@ Laser based timing system developed using code and resources from www.larryrockt
 ### General Notes:
 - Larry's website was under revisions at the time this project was developed, so the content currently shown on the site may differ slightly from what was used for this project
 - The timer works independently of a laptop or smartphone
+- Another helpful resource is the Seeed Studio Wiki page for the esp32c3: https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/
