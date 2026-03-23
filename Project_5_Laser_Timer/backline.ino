@@ -101,7 +101,7 @@ oled.init();
  oled.setCursor(15,3);
  oled.print("Larry");
  oled.setCursor(5,5);
- oled.print("Rock Timer");
+ oled.print("Rock Timer"); //welcome message from original code, can change
  oled.setCursor(0,7);
  oled.setScale(1);
  oled.print("MULTIBEAM xiao 1/22/26");
