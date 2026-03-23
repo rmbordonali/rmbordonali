@@ -24,3 +24,12 @@ Goals for this project include completing wavelet analysis and fourier analysis 
   - Continuous wavelet transform scalograms and difference plot
   - Option to save cell outputs and markdown as HTML file with save_notebook function
     - Convert to PDF file with print to PDF (e.g. Ctrl + P)
+
+### General Notes:
+- This project was developed using Jupyter Notebook with Python version 3.12.9
+    - pandas version: 2.2.2
+    - numpy version: 1.26.4
+    - scipy version: 1.16.3
+    - matplotlib version: 3.8.4
+    - ssqueezepy version: 0.6.6
+    - sklearn version: 1.4.2
