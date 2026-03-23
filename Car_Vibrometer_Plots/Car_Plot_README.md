@@ -22,3 +22,10 @@
  
 ### General Notes:
 - The "Car_On_Vibrometer_Plots.ipynb" file contains plots for both Case 2 and Case 3
+- This project was developed using Jupyter Notebook with Python version 3.12.9
+    - pandas version: 2.2.2
+    - numpy version: 1.26.4
+    - scipy version: 1.16.3
+    - matplotlib version: 3.8.4
+    - ssqueezepy version: 0.6.6
+    - sklearn version: 1.4.2
