@@ -55,10 +55,10 @@ void loop()
 while(digitalRead(D9)==0){
  //beam is closed waiting for a break
  }
- //Beam just broke - send data immediately for climbing
+ //Beam just broke, send data immediately for climbing
  timeData.a=millis();
  timeData.b=millis(); // Not used for climbing but must match structure
-// Serial.println("Finish line beam is broken - sending immediately");
+// Serial.println("Finish line beam is broken, sending immediately");
 
 //Send the message AS SOON AS the beam breaks
 esp_err_t result = esp_now_send(broadcastAddress, (uint8_t *)&timeData, sizeof(timeData));
