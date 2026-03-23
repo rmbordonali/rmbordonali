@@ -13,6 +13,8 @@ Laser based timing system developed using code and resources from www.larryrockt
 - Other Files:
   - Operating_Instructions.md
     - This file contains operating instructions for the timer as well as some troubleshooting steps
+  - Materials.md
+    - This file contains a list of materials used for the project (in-progress)
 
 ### Software Version Information:
 - Arduino IDE 2.3.6
