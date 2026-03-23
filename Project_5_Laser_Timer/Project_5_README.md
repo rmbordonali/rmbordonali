@@ -2,7 +2,7 @@
 Laser based timing system developed using code and resources from www.larryrocktimer.com. The original timer project by Larry Ehnert is designed to measure the speed and time of curling stones. This project modifies the original for use in rock climbing.
 
 ### File Guide:
-- Code:
+- Code Files:
   - backline.ino
     - This file contains code for the "starting line" of the climbing wall, on the ground
   - hogline.ino
@@ -10,8 +10,9 @@ Laser based timing system developed using code and resources from www.larryrockt
   - GetMacAddress.ino
     - This file contains code for getting the MAC adress corresponding to each esp32c3
     - The MAC address for the backline is needed for the hogline code
-- Operating_Instructions.md
-  - This file contains operating instructions for the timer as well as some troubleshooting steps
+- Other Files:
+  - Operating_Instructions.md
+    - This file contains operating instructions for the timer as well as some troubleshooting steps
 
 ### Software Version Information:
 - Arduino IDE 2.3.6
