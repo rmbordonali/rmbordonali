@@ -9,6 +9,11 @@ Laser based timing system developed using code and resources from www.larryrockt
 - GetMacAddress.ino
   - This file contains code for getting the MAC adress corresponding to each esp32c3
   - The MAC address for the backline is needed for the hogline code
+
+### Software Version Information:
+- Arduino IDE 2.3.6
+- GyverOLED 1.6.4 library by AlexGyver
+- esp32 3.0.7 boards manager by Espressif Systems
  
 ### General Notes:
 - Larry's website was under revisions at the time this project was developed, so the content currently shown on the site may differ slightly from what was used for this project
