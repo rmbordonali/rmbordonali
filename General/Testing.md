@@ -19,3 +19,6 @@ Below is some information about what devices, etc. I have used to test my code.
  
 ### Notes:
 - Some issues were encountered if the Python version information was not consistent with the original used
+- Saving plots from Jupyter Notebook:
+  - Plots are saved as pdf files using PdfPages from matplotlib.backends.backend_pdf
+  - For larger outputs that use more memory, saving plots as jpg files instead of pdf files worked better (e.g. plt.savefig('filename.jpg'))
