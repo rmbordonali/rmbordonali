@@ -27,5 +27,5 @@ The below instructions were adapted from the following site: https://sites.googl
 - If timing data is not being sent from the hogline/finish to the backline/start, make sure that the correct backline MAC address is uploaded to the hogline esp32
   - If the issue persists with the correct MAC address, keep the backline unit on and turn the hogline on/off
     (Note: I have not personally experienced this issue, but others have suggested this solution if it occurs)
-- For other issues (e.g. sensor LED not lighting up, OLED not turing on when connected to power, etc.), check for loose wiring connections or pins
+- For other issues (e.g. sensor LED not lighting up, OLED not turning on when connected to power, etc.), check for loose wiring connections or pins
   - Loose pins may need to be resoldered to the esp32c3 boards
