@@ -1,6 +1,5 @@
-(IN-PROGRESS)
 ### Materials:
-Below is a list of materials that were used in this project:
+Below is a list of materials that were used to start this project:
 - Electronic parts, from https://sites.google.com/larryrocktimer.com/larryrocktimer/home/electronic-parts?authuser=0:
   - Seeed studio xiao esp32c3 boards (x2)
   - Breadboard jumper wires (lots)
@@ -15,5 +14,4 @@ Below is a list of materials that were used in this project:
   - Electrical tape
   - USB-C data cable (for uploading software to esp boards)
 - Plastic parts, from https://sites.google.com/larryrocktimer.com/larryrocktimer/home/plasticparts?authuser=0:
-  - ...
     
