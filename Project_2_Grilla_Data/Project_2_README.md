@@ -49,3 +49,5 @@ This project builds on Project 1 with a focus on passive seismics. This project 
     - matplotlib version: 3.8.4
     - ssqueezepy version: 0.6.6
     - sklearn version: 1.4.2
+  - The most recently updated files for this project are in the hwy15 folder
+    
